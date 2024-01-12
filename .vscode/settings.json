@@ -1,0 +1,16 @@
+{
+  "liveSassCompile.settings.formats":[
+    {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/public/css"
+    },
+  ],
+
+  "files.exclude": {
+      "node_modules": true,
+      "graphics": true,
+      "package-lock.json": true,
+      ".gitignore": true
+  }
+}

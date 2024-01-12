@@ -1,0 +1,12 @@
+{
+  "verbose": true,
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules"
+  ],
+  "restartable": "rs",
+  "watch": [
+    "."
+  ],
+  "ext": "js,mjs,cjs,json,html,ejs"
+}
